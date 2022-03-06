@@ -1,1 +1,2 @@
+BASED ON: https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
 RUN: RUST_LOG=info cargo run
